@@ -1,0 +1,46 @@
+Jan 12 02:14:01 ubuntu sshd[1441]: Failed password for invalid user admin from 192.168.1.50 port 55001 ssh2
+Jan 12 02:14:02 ubuntu sshd[1441]: Failed password for invalid user admin from 192.168.1.50 port 55001 ssh2
+Jan 12 02:14:03 ubuntu sshd[1441]: Failed password for invalid user admin from 192.168.1.50 port 55001 ssh2
+Jan 12 02:14:05 ubuntu sshd[1449]: Failed password for invalid user test from 192.168.1.50 port 55012 ssh2
+Jan 12 02:14:06 ubuntu sshd[1449]: Failed password for invalid user test from 192.168.1.50 port 55012 ssh2
+Jan 12 02:14:07 ubuntu sshd[1449]: Failed password for invalid user test from 192.168.1.50 port 55012 ssh2
+Jan 12 02:14:09 ubuntu sshd[1453]: Failed password for invalid user guest from 192.168.1.50 port 55025 ssh2
+Jan 12 02:14:10 ubuntu sshd[1453]: Failed password for invalid user guest from 192.168.1.50 port 55025 ssh2
+Jan 12 02:14:11 ubuntu sshd[1453]: Invalid user guest from 192.168.1.50 port 55025
+Jan 12 02:14:12 ubuntu sshd[1453]: Failed password for invalid user guest from 192.168.1.50 port 55025 ssh2
+
+Jan 12 02:14:20 ubuntu sshd[1460]: Failed password for invalid user oracle from 192.168.1.50 port 55052 ssh2
+Jan 12 02:14:21 ubuntu sshd[1460]: Failed password for invalid user oracle from 192.168.1.50 port 55052 ssh2
+Jan 12 02:14:23 ubuntu sshd[1465]: Failed password for invalid user ubuntu from 192.168.1.50 port 55066 ssh2
+Jan 12 02:14:24 ubuntu sshd[1465]: Failed password for invalid user ubuntu from 192.168.1.50 port 55066 ssh2
+Jan 12 02:14:25 ubuntu sshd[1465]: Failed password for invalid user ubuntu from 192.168.1.50 port 55066 ssh2
+
+Jan 12 02:14:30 ubuntu sshd[1471]: Failed password for root from 192.168.1.50 port 55090 ssh2
+Jan 12 02:14:32 ubuntu sshd[1471]: Failed password for root from 192.168.1.50 port 55090 ssh2
+Jan 12 02:14:33 ubuntu sshd[1471]: Failed password for root from 192.168.1.50 port 55090 ssh2
+Jan 12 02:14:34 ubuntu sshd[1471]: Failed password for root from 192.168.1.50 port 55090 ssh2
+Jan 12 02:14:35 ubuntu sshd[1471]: Failed password for root from 192.168.1.50 port 55090 ssh2
+Jan 12 02:14:36 ubuntu sshd[1471]: Failed password for root from 192.168.1.50 port 55090 ssh2
+
+Jan 12 02:14:38 ubuntu sshd[1478]: Failed password for admin from 192.168.1.50 port 55104 ssh2
+Jan 12 02:14:39 ubuntu sshd[1478]: Failed password for admin from 192.168.1.50 port 55104 ssh2
+Jan 12 02:14:41 ubuntu sshd[1478]: Failed password for admin from 192.168.1.50 port 55104 ssh2
+
+Jan 12 02:14:45 ubuntu sshd[1484]: Failed password for root from 192.168.1.50 port 55127 ssh2
+Jan 12 02:14:46 ubuntu sshd[1484]: Failed password for root from 192.168.1.50 port 55127 ssh2
+Jan 12 02:14:47 ubuntu sshd[1484]: Failed password for root from 192.168.1.50 port 55127 ssh2
+Jan 12 02:14:48 ubuntu sshd[1484]: Failed password for root from 192.168.1.50 port 55127 ssh2
+
+Jan 12 02:14:55 ubuntu sshd[1491]: Failed password for root from 192.168.1.50 port 55149 ssh2
+Jan 12 02:14:57 ubuntu sshd[1491]: Failed password for root from 192.168.1.50 port 55149 ssh2
+Jan 12 02:14:59 ubuntu sshd[1491]: Failed password for root from 192.168.1.50 port 55149 ssh2
+
+Jan 12 02:15:02 ubuntu sshd[1497]: Failed password for root from 192.168.1.50 port 55166 ssh2
+Jan 12 02:15:04 ubuntu sshd[1497]: Failed password for root from 192.168.1.50 port 55166 ssh2
+Jan 12 02:15:05 ubuntu sshd[1497]: Failed password for root from 192.168.1.50 port 55166 ssh2
+
+Jan 12 02:15:08 ubuntu sshd[1502]: Accepted password for root from 192.168.1.50 port 55182 ssh2
+Jan 12 02:15:08 ubuntu sshd[1502]: pam_unix(sshd:session): session opened for user root by (uid=0)
+
+Jan 12 02:15:11 ubuntu sshd[1502]: Received disconnect from 192.168.1.50 port 55182:11: Bye Bye
+Jan 12 02:15:11 ubuntu sshd[1502]: pam_unix(sshd:session): session closed for user root
